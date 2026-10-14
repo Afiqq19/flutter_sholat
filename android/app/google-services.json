@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287607086050",
+    "project_id": "sholat-7c4d2",
+    "storage_bucket": "sholat-7c4d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287607086050:android:bea61abff4e00a602ff7bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sholat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQuyl107aKWxBMykmgBg3JlMO-bVZxn9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
